@@ -20,6 +20,8 @@ Le script `main.sh` prend en entrée un fichier contenant les indices du jeu, r�
    ```bash
    ./main.sh input.txt
    ```
+3. Exécutez le script `test_all_input.sh` avec la commande suivante, pour réaliser tous les inputs :
+
    ```bash
    ./test_all_input
    ```

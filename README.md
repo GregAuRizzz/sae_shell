@@ -17,3 +17,6 @@ Le script `main.sh` prend en entr√©e un fichier contenant les indices du jeu, r√
 
    ```bash
    ./main.sh input.txt
+
+   ```bash
+   ./test_all_input
